@@ -15,3 +15,27 @@ each words, look for the matching keyword, and return back the value that is ass
 
 Print out the translated sentence after each translation.
 """
+
+
+
+
+"""
+main():
+    set sentence = input()
+    set dictionary = create_dictionary()
+    translate(sentence, dictionary)
+
+translate(sentence, dictionary):
+    words = for each word in the sentence
+    for each words, translate word
+    print translated sentence
+
+create_dictionary():
+    read textese.txt
+    create list = each line from textese.txt
+    close file
+    create dictionary from list
+    return dictionary
+
+main()
+"""
